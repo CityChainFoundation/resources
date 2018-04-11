@@ -1,6 +1,6 @@
 # Resources: Identity
 
-[...Back](./readme)
+[...Back](./readme.md)
 
 [Desentralized Identity Foundation](http://identity.foundation/)
 
