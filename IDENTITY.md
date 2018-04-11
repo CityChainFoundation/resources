@@ -8,5 +8,20 @@
 
 [The Rising Tide of Decentralized Identity](https://medium.com/decentralized-identity/the-rising-tide-of-decentralized-identity-2e163e4ec663)
 
+[Identity Is the Dark Matter & Energy of Our World](http://www.backalleycoder.com/2018/01/25/identity-is-the-dark-matter-energy-of-our-world/)
+
+[Scaling Decentralized Apps & Services via Blockchain-based Identity Indirection](http://www.backalleycoder.com/2016/07/12/scaling-decentralized-apps-services-via-blockchain-based-identity-indirection/)
+
+[The Web Beyond: How blockchain identity will transform our world](http://www.backalleycoder.com/2016/04/14/the-web-beyond-how-blockchain-identity-will-transform-our-world/)
+
 [Projects/companies working on blockchain and identity](https://github.com/peacekeeper/blockchain-identity)
 
+[Self Sovereign Identity and MyData](https://medium.com/@apoikola/self-sovereign-identity-and-mydata-e1f996a9451)
+
+[Self Sovereign — Identity vs Data?](https://stories.jolocom.com/self-sovereign-identity-vs-data-5abe5947a62)
+
+[W3C Decentralized Identifiers (DIDs) v0.9](https://w3c-ccg.github.io/did-spec/)
+
+[Verifiable Credentials Data Model 1.0](https://w3c.github.io/vc-data-model/)
+
+[Keybase](https://keybase.io/)
