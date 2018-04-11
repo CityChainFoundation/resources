@@ -1,2 +1,7 @@
-# resources
-Documentation, links, resources, training and more for developers
+# Resources
+
+Documentation, links, resources, training and more for developers.
+
+## Contents
+
+* [Identity](identity)
