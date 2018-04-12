@@ -25,3 +25,9 @@
 [Verifiable Credentials Data Model 1.0](https://w3c.github.io/vc-data-model/)
 
 [Keybase](https://keybase.io/)
+
+[Microsoft: We're developing blockchain ID system starting with our Authenticator app](https://www.zdnet.com/article/microsoft-were-developing-blockchain-id-system-starting-with-our-authenticator-app/)
+
+[Microsoft is developing blockchain tech that lets you manage your digital identity](https://thenextweb.com/hardfork/2018/02/12/microsoft-digital-identity-blockchain)
+
+[DIF Identity Hubs](https://github.com/decentralized-identity/hubs/blob/master/explainer.md)
