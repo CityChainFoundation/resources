@@ -9,3 +9,4 @@ Documentation, links, resources, training and more for developers.
 * [Identity](IDENTITY.md)
 * [Property Registry](PROPERTY-REGISTRY.md)
 * [Proof-of-Stake](POS.md)
+* [Merchants](MERCHANTS.md)
