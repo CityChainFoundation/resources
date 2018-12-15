@@ -10,3 +10,4 @@ Documentation, links, resources, training and more for developers.
 * [Property Registry](PROPERTY-REGISTRY.md)
 * [Proof-of-Stake](POS.md)
 * [Merchants](MERCHANTS.md)
+* [Security](SECURITY.md)
